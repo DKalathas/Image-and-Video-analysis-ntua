@@ -6,4 +6,4 @@ This repository contains the programming sets of the Image & Video Analysis and 
 
 	•	RGB model - Multiscale Analysis - Laplacian Pyramids - Image Histograms
 	•	Deep Learning concepts and famous architectures (LeNet, AlexNet, VGG)
-	•	Interest point detection and Motion tracking using (mainly) Harris Detector and Lucas-Kanade Mathod
+	•	Object Detection and Tracking with YOLOv3 and SORT
