@@ -11,3 +11,5 @@ This repository contains the programming sets of the Image & Video Analysis and 
 ### Team members:
 
 Dimitris Kalathas, Dimitris Bakalis
+
+### The assignment language is greek.
