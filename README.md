@@ -7,3 +7,7 @@ This repository contains the programming sets of the Image & Video Analysis and 
 	•	RGB model - Multiscale Analysis - Laplacian Pyramids - Image Histograms
 	•	Deep Learning concepts and famous architectures (LeNet, AlexNet, VGG)
 	•	Object Detection and Tracking with YOLOv3 and SORT
+	
+### Team members:
+
+Dimitris Kalathas, Dimitris Bakalis
